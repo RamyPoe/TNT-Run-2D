@@ -31,8 +31,8 @@ This was a 3 week long project built on spare time. Project goals included:
  - Applying Java fundamentals
  - Familiarizing myself with 2D rendering
  - Learning Processing framework
- - Learning Server/Client models
  - Applying Well planned OOP designed model
+ - Making proper use of Objects and classes
 
 ## Documentation
 > Project Outline and Documentation can be found [here](https://docs.google.com/document/d/1klapvjAYSzoDGzE71DFjAkE4hMUqPsVPGmrg2vruLzU/edit?usp=sharing) (Credits to Dimitar): 
