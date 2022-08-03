@@ -34,4 +34,4 @@ This was a 3 week long project built on spare time. Project goals included:
  - Applying Well planned OOP designed model
 
 ## Documentation
-> Project Outline and Documentation can be found [here](https://docs.google.com/document/d/1DpyZdfKOhErycgIaeVq2_0QCtqmpy3ROW7JpzybAZ4s/edit?usp=sharing): 
+> Project Outline and Documentation can be found [here](https://docs.google.com/document/d/1DpyZdfKOhErycgIaeVq2_0QCtqmpy3ROW7JpzybAZ4s/edit?usp=sharing) (Credit to Dimitar): 
