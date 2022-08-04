@@ -21,7 +21,7 @@ Alternatively can be run/re-compiled using Processing 4 (recommended)
 
 #### Game
 
-Objective is to avoid tiles which have already been run over. User has ability to jump, making the invlunerable for a period (dictated by the map) , however having their acceleration reduced by a factor as well. First player to re-touch a tile loses and the lifetime counter is updated. Maps provide variations in friction, jump duration, and acceleration.
+Objective is to avoid tiles which have already been run over. User has ability to jump, making them invlunerable for a period (dictated by the map) , however having their acceleration reduced by a factor as well. First player to re-touch a tile loses and the lifetime score counter is updated. Maps provide variations in friction, jump duration, and acceleration.
 
 
 
