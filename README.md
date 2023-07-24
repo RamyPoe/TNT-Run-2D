@@ -4,10 +4,10 @@ ___
 
 ## Project Screen Shots
 
-![ALT](https://i.ibb.co/CpLdcSm/1.png)
-![ALT](https://i.ibb.co/YDWJDHK/1.png)
-![ALT](https://i.ibb.co/QmH9cCF/3.png)
-![ALT](https://i.ibb.co/nQxmW4k/4.gif)
+![ALT](https://github.com/RamyPoe/TNT-RUN-2D/blob/main/images/1.png?raw=true)
+![ALT](https://github.com/RamyPoe/TNT-RUN-2D/blob/main/images/2.png?raw=true)
+![ALT](https://github.com/RamyPoe/TNT-RUN-2D/blob/main/images/3.png?raw=true)
+![ALT](https://github.com/RamyPoe/TNT-RUN-2D/blob/main/images/4.gif?raw=true)
 
 
 ## Installation and Setup Instructions
